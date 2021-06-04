@@ -1,0 +1,9 @@
+[submodule "devops"]
+	path = devops
+	url = https://github.com/200413-java-spark/project-3-devops
+[submodule "Spark"]
+	path = Spark
+	url = https://github.com/200413-java-spark/project-3-Spark
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/200413-java-spark/project-3-dashboard
